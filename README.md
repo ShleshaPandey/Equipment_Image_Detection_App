@@ -37,9 +37,9 @@ References to generated output images
 
 ## Example Output:
 
-<img width="570" height="537" alt="image" src="https://github.com/user-attachments/assets/f25e605b-276d-4bb6-9211-5882ec9f63da" />
+![image](https://github.com/ShleshaPandey/Equipment_Image_Detection_App/assets/output2)
 
-<img width="625" height="457" alt="image" src="https://github.com/user-attachments/assets/cfa4b501-1df2-43e3-8a03-65dd6d9bc74f" />
+![image](https://github.com/ShleshaPandey/Equipment_Image_Detection_App/assets/output1)
 
 
 In the example above, the green bounding boxes represent detected objects, and the corresponding labels indicate the object classes. The level of confidence for each detection is also displayed.
