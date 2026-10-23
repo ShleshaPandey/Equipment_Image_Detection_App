@@ -37,9 +37,11 @@ References to generated output images
 
 ## Example Output:
 Annotated Image
-![image](https://github.com/ShleshaPandey/Equipment_Image_Detection_App/assets/77585446/83771160-b885-4243-9d57-f49e9c365e6a)
+<img width="570" height="537" alt="image" src="https://github.com/user-attachments/assets/f25e605b-276d-4bb6-9211-5882ec9f63da" />
 
-![image](https://github.com/ShleshaPandey/Equipment_Image_Detection_App/assets/77585446/bec171bc-5511-4238-80b0-c09f5e104710)
+
+
+
 
 In the example above, the green bounding boxes represent detected objects, and the corresponding labels indicate the object classes. The level of confidence for each detection is also displayed.
 
