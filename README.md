@@ -1,0 +1,1 @@
+# Equipment_Image_Detection_App
