@@ -54,7 +54,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 YOLOv8: https://github.com/ultralytics/yolov8
-
-Roboflow: https://roboflow.com/
 ## Contact
 For questions or inquiries, please contact shlesha.pandey9@gmail.com
